@@ -1,0 +1,8 @@
+TRANSCRIPT:
+this website is called audio and test processing to with independent analysis it provides independent analysis for the audio that you have provided
+
+
+SENTIMENT ANALYSIS:
+Score: 0.26100000739097595
+Magnitude: 0.29100000858306885
+Overall sentiment: NEUTRAL
