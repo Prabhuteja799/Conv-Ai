@@ -1,6 +1,0 @@
-Original Text: The weather is good today
-
-Sentiment Analysis:
-Score: 0.9129999876022339
-Magnitude: 0.9490000009536743
-Overall Sentiment: POSITIVE

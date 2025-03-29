@@ -1,6 +1,0 @@
-Original Text: What a unlucky day it was!
-
-Sentiment Analysis:
-Score: -0.8970000147819519
-Magnitude: 0.9810000061988831
-Overall Sentiment: NEGATIVE
