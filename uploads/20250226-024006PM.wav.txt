@@ -1,8 +1,0 @@
-TRANSCRIPT:
-the other is great today
-
-
-SENTIMENT ANALYSIS:
-Score: 0.7900000214576721
-Magnitude: 0.9769999980926514
-Overall sentiment: POSITIVE
