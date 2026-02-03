@@ -7,7 +7,7 @@ genai.configure(api_key=os.environ.get("GEMINI_API_KEY"))
 
 
 
-
+#commenting just to check git
 # Initialize Flask
 app = Flask(__name__)
 UPLOAD_FOLDER = 'uploads'
